@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338552786165",
+    "firebase_url": "https://report-95c7e.firebaseio.com",
+    "project_id": "report-95c7e",
+    "storage_bucket": "report-95c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338552786165:android:187a047f9108e603",
+        "android_client_info": {
+          "package_name": "com.example.duyda.realm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338552786165-0j8kg51efs32qlrprh0h555brb3oi5op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyusmluAsuRAR5Nou1eXfkYu10dB9_Vjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
